@@ -14,8 +14,7 @@
 
 📫 How to reach me:  
 - 📧bbolmall4@gmail.com
--https://www.linkedin.com/in/basavaraj-r-b-9a366628a/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BMbomC7gFSt%2BgfrgfYXOMRA%3D%3D
-
+- 
 ⚡ Fun fact: I love solving tricky coding puzzles and also dabble in sketching!
 ```
 
