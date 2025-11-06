@@ -1,5 +1,8 @@
 <h1 align="center">👋 Hi, I'm Basavvraj Bolmall </h1>
 
+<p align="center">
+<img src="file:///C:/Users/Basavaraj/Downloads/repo.html" /></p>
+  
 # 💫 About Me:
 I'm a DevOps Engineer with good knowledge on Java, SQL, Web Technologies and Cloud Infrastructure, dedicated to automation, workflows and optimizing cloud-based solutions.<br><br>With extensive hands-on experience in applying advanced DevOps strategies, I specialize in optimizing systems for greater efficiency, scalability, and robustness. I’m committed to building secure, high-performing software that meets today’s industry benchmarks.<br><br><br>
 
