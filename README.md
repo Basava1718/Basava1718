@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Basavvraj Bolmall </h1>
+<center><h1>👋 Hi, I'm Basavvraj Bolmall </h1></center>
 
 # 💫 About Me:
 I'm a DevOps Trainee with good knowledge on Java, SQL, Web Technologies and Cloud Infrastructure, dedicated to automation, workflows and optimizing cloud-based solutions.<br><br>With extensive hands-on experience in applying advanced DevOps strategies, I specialize in optimizing systems for greater efficiency, scalability, and robustness. I’m committed to building secure, high-performing software that meets today’s industry benchmarks.<br><br><br>
