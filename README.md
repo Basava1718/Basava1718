@@ -5,7 +5,7 @@
     
 # 💫 About Me:
 <p>
-I'm a <strong>DevOps Engineer</strong> with good knowledge on <strong>Java, SQL, Web Technologies and Cloud Infrastructure</strong>, dedicated to automation, workflows and optimizing cloud-based solutions.</p>
+I'm a <strong>DevOps Engineer</strong> with good knowledge on <strong>Cloud Infrastructure, Java, SQL</strong>, and <strong>Web Technologies</strong>, dedicated to automation, workflows and optimizing cloud-based solutions.</p>
 <p>
 With extensive hands-on experience in applying advanced DevOps strategies, I specialize in optimizing systems for greater efficiency, scalability, and robustness. I’m committed to building secure, high-performing software that meets today’s industry benchmarks.</p>
 
