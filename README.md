@@ -4,7 +4,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=44E1F7&center=true&width=435&lines=DevOps+%26+Cloud+Infrastructure;Java+%26+Web+Technologies;Continuous+Learner" alt="Typing SVG" /></p>
     
 # 💫 About Me:
-I'm a DevOps Engineer with good knowledge on Java, SQL, Web Technologies and Cloud Infrastructure, dedicated to automation, workflows and optimizing cloud-based solutions.<br><br>With extensive hands-on experience in applying advanced DevOps strategies, I specialize in optimizing systems for greater efficiency, scalability, and robustness. I’m committed to building secure, high-performing software that meets today’s industry benchmarks.<br><br><br>
+<p>
+I'm a <strong>DevOps Engineer</strong> with good knowledge on <strong>Java, SQL, Web Technologies and Cloud Infrastructure</strong>, dedicated to automation, workflows and optimizing cloud-based solutions.</p>
+<p>
+With extensive hands-on experience in applying advanced DevOps strategies, I specialize in optimizing systems for greater efficiency, scalability, and robustness. I’m committed to building secure, high-performing software that meets today’s industry benchmarks.</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_basava_18_) 
