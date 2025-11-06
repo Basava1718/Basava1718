@@ -4,7 +4,9 @@
 I'm a DevOps Trainee with good knowledge on Java, SQL, Web Technologies and Cloud Infrastructure, dedicated to automation, workflows and optimizing cloud-based solutions.<br><br>With extensive hands-on experience in applying advanced DevOps strategies, I specialize in optimizing systems for greater efficiency, scalability, and robustness. I’m committed to building secure, high-performing software that meets today’s industry benchmarks.<br><br><br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_basava_18_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Basavvraj Bolmall) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:basavvrajbolmall@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_basava_18_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basavvraj-bolmall) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:basavvrajbolmall@gmail.com) 
 
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
