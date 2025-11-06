@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Basavvraj Bolmall </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=DevOps+%26+Cloud+Infrastructure;Java" alt="Typing SVG" /></p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&width=435&lines=DevOps+%26+Cloud+Infrastructure" alt="Typing SVG" /></p>
   
 # 💫 About Me:
 I'm a DevOps Engineer with good knowledge on Java, SQL, Web Technologies and Cloud Infrastructure, dedicated to automation, workflows and optimizing cloud-based solutions.<br><br>With extensive hands-on experience in applying advanced DevOps strategies, I specialize in optimizing systems for greater efficiency, scalability, and robustness. I’m committed to building secure, high-performing software that meets today’s industry benchmarks.<br><br><br>
