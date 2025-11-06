@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Basavvraj Bolmall </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=44E1F7&width=435&lines=DevOps+%26+Cloud+Infrastructure;Java+%26+Web+Technologies;Continuous+Learner" alt="Typing SVG" /></p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=44E1F7&center=true&width=435&lines=DevOps+%26+Cloud+Infrastructure;Java+%26+Web+Technologies;Continuous+Learner" alt="Typing SVG" /></p>
     
 # 💫 About Me:
 I'm a DevOps Engineer with good knowledge on Java, SQL, Web Technologies and Cloud Infrastructure, dedicated to automation, workflows and optimizing cloud-based solutions.<br><br>With extensive hands-on experience in applying advanced DevOps strategies, I specialize in optimizing systems for greater efficiency, scalability, and robustness. I’m committed to building secure, high-performing software that meets today’s industry benchmarks.<br><br><br>
@@ -13,8 +13,6 @@ I'm a DevOps Engineer with good knowledge on Java, SQL, Web Technologies and Clo
 
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
