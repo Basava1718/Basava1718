@@ -1,7 +1,7 @@
-                                                              <h1>👋 Hi, I'm Basavvraj Bolmall </h1>
+<h1>👋 Hi, I'm Basavvraj Bolmall </h1>
 
 # 💫 About Me:
-I'm a DevOps Trainee with good knowledge on Java, SQL, Web Technologies and Cloud Infrastructure, dedicated to automation, workflows and optimizing cloud-based solutions.<br><br>With extensive hands-on experience in applying advanced DevOps strategies, I specialize in optimizing systems for greater efficiency, scalability, and robustness. I’m committed to building secure, high-performing software that meets today’s industry benchmarks.<br><br><br>
+I'm a DevOps Engineer with good knowledge on Java, SQL, Web Technologies and Cloud Infrastructure, dedicated to automation, workflows and optimizing cloud-based solutions.<br><br>With extensive hands-on experience in applying advanced DevOps strategies, I specialize in optimizing systems for greater efficiency, scalability, and robustness. I’m committed to building secure, high-performing software that meets today’s industry benchmarks.<br><br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_basava_18_) 
